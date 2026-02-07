@@ -31,3 +31,5 @@ kali@kali:~$ pwd
 
 kali@kali:~$ echo "My cybersecurity journey begins!"
 My cybersecurity journey begins!
+
+Day 2 - sunday Feb 7 2026
